@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yudi Billy</h1>
-<h3 align="center">A Software Engineer 🚀 from SURABAY</h3>
+<h3 align="center">A Software Engineer 🚀 from SURABAYA</h3>
 
-<br>
 <br>
 
 - 🔭 I’m currently working on [SantriKoding](https://santrikoding.com)
 
 - 👨‍💻 Portfolio at [Here](https://github.com/maulayyacyber/portfolio/blob/master/README.md)
 
-- 📝 I regulary write articles in [https://santrikoding.com](https://santrikoding.com)
+- My Channel [Youtube](https://youtube.com/@Yudibilly?si=1NOrsSsfdV52loLv)
 
 - 📚 My E-book at [Here](https://santrikoding.com/ebook)
 
