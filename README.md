@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [tukangsby.com](https://santrikoding.com)
+- 🔭 I’m currently working on [SantriKoding](https://santrikoding.com)
 - 👨‍💻 Portfolio at [Here](https://github.com/maulayyacyber/portfolio/blob/master/README.md)
 - 🎥 My Channel [Youtube](https://youtube.com/@Yudibilly?si=1NOrsSsfdV52loLv)
 - 📚 My E-book at [Here](https://santrikoding.com/ebook)
@@ -12,13 +12,9 @@
 **Languages & Tools:**
 
 
-<img height="50" src="https://santrikoding.com/storage/categories/11166a84-9aa9-4afc-9e30-b25d00dfc575.webp">
-<img height="50" src="https://santrikoding.com/storage/categories/8c30b91e-fa6a-408c-b9c9-029fd6a0a887.webp">
-<img height="50" src="https://santrikoding.com/storage/categories/f33b3b22-847a-44eb-b334-9695069dbbf9.webp">
-<img height="50" src="https://santrikoding.com/storage/categories/10b6992b-1d4f-47e5-b2a5-e5e6e8595bc8.webp">
-<img height="50" src="https://santrikoding.com/storage/categories/df6e5b68-ccbd-4c14-9eec-89789e546da3.webp">
-<img height="50" src="https://santrikoding.com/storage/categories/0eb18343-130f-4fe8-b82b-36f0ac89595d.webp">
-<img height="50" src="https://santrikoding.com/storage/categories/d629226b-24e4-41eb-bafe-1ee86f3dc102.webp">
+<img height="50" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHUTeQ1lG65P_SULpnMYXNDDCWjklYJofm5mpM0h99AmZ87a0J_F00m8YOmJhnMJq0pmLDqLqi4c6lOLTOBCSxVj6BwkpRJMokGTi-d1h1Vw1ZhR8rGLi3NljyMVlhrqD212e8ikHCe2y8C4sebn8s6o7R_0zC8yBvixIxKRHRbBZ-XbAhVnz-rPQB63Y/s200/express.webp">
+<img height="50" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlxvSXJVxokMCldUF9tFDlDF_sCOcBBM7ErT0hokBYQhbQcb-lIJrCpdYSBhEEBY3cE2faXOpPZDVIZ57dq_GwnvnPwNbUjCT3AJcWv9ckas4AqeVmbNFOxxhhF4HjSyU_bzqhENAfbVXOiAMPXvrXKu81Sk3-6eoGk5b0hIfHbkEPH7IBMdXC2MorGko/s200/laravel.webp">
+<img height="50" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHVloB1KINN1wDthSBFJP_vyvPWa3aU56Yg-nSk6lbC_OGVypomAmpkeedVwW4wbr5gaOCI5uz093LacXFhRhPOxzpLW3zqWW6NOOus1m9E6wj90WD80DZW5LQHp_eQ-hgDaR7kCBVC5D-5RlJY3SFpf1drJ4oJ4ZqdKqiFAaFXxW6tN8WJ0pJ6qm86JY/s200/javascript.webp">
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maulayyacyber&show_icons=true&hide_border=true)
