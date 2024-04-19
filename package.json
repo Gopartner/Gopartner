@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "<h1 align=\"center\">Hi 👋, I'm Yudi Billy</h1> <h3 align=\"center\">A Software Engineer 🚀 from SURABAY</h3>",
   "scripts": {
-    "push": "git add . && git commit -m \"push with package\" && git push"
+    "push": "git add . && git commit -m \"push with package\" && git push",
+    "build": "python generate_readme.py"
   },
   "keywords": [],
   "author": "",
