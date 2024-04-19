@@ -12,7 +12,9 @@ def generate_readme(name, city, working_on, portfolio_link, youtube_channel, ebo
 
 **Languages & Tools:**
 
+<div style="display: flex; flex-wrap: wrap;">
 {languages_tools}
+</div>
 
 ![GitHub Stats]({github_stats_link})
 
@@ -22,21 +24,27 @@ def generate_readme(name, city, working_on, portfolio_link, youtube_channel, ebo
 """
     return readme_content
 
-# Data untuk mengisi variabel dalam README
-name = "Yudi Billy"
-city = "SURABAYA"
-working_on = "SantriKoding"
-portfolio_link = "https://github.com/maulayyacyber/portfolio/blob/master/README.md"
-youtube_channel = "https://youtube.com/@Yudibilly?si=1NOrsSsfdV52loLv"
-ebook_link = "https://santrikoding.com/ebook"
-email = "yudibilly@gmail.com"
+# Meminta input data dari pengguna
+name = input("Masukkan nama Anda: ")
+city = input("Masukkan kota Anda: ")
+working_on = input("Apa yang sedang Anda kerjakan? ")
+portfolio_link = input("Masukkan link portofolio Anda: ")
+youtube_channel = input("Masukkan link channel Youtube Anda: ")
+ebook_link = input("Masukkan link e-book Anda: ")
+email = input("Masukkan alamat email Anda: ")
 
-# Daftar bahasa dan tools (gunakan format Markdown untuk gambar)
-languages_tools = """
-<img height="50" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHUTeQ1lG65P_SULpnMYXNDDCWjklYJofm5mpM0h99AmZ87a0J_F00m8YOmJhnMJq0pmLDqLqi4c6lOLTOBCSxVj6BwkpRJMokGTi-d1h1Vw1ZhR8rGLi3NljyMVlhrqD212e8ikHCe2y8C4sebn8s6o7R_0zC8yBvixIxKRHRbBZ-XbAhVnz-rPQB63Y/s200/express.webp">
-<img height="50" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlxvSXJVxokMCldUF9tFDlDF_sCOcBBM7ErT0hokBYQhbQcb-lIJrCpdYSBhEEBY3cE2faXOpPZDVIZ57dq_GwnvnPwNbUjCT3AJcWv9ckas4AqeVmbNFOxxhhF4HjSyU_bzqhENAfbVXOiAMPXvrXKu81Sk3-6eoGk5b0hIfHbkEPH7IBMdXC2MorGko/s200/laravel.webp">
-<img height="50" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHVloB1KINN1wDthSBFJP_vyvPWa3aU56Yg-nSk6lbC_OGVypomAmpkeedVwW4wbr5gaOCI5uz093LacXFhRhPOxzpLW3zqWW6NOOus1m9E6wj90WD80DZW5LQHp_eQ-hgDaR7kCBVC5D-5RlJY3SFpf1drJ4oJ4ZqdKqiFAaFXxW6tN8WJ0pJ6qm86JY/s200/javascript.webp">
-"""
+# Daftar untuk menyimpan URL gambar
+languages_tools_urls = []
+
+# Loop untuk meminta input URL gambar dari pengguna
+while True:
+    url = input("Masukkan URL gambar (atau ketik 'exit' untuk selesai): ")
+    if url.lower() == 'exit':
+        break
+    languages_tools_urls.append(url)
+
+# Menghasilkan tag <img> untuk setiap URL gambar dalam daftar
+languages_tools = "\n".join(f'<img style="margin-right: 10px; margin-bottom: 10px;" height="50" src="{url}">' for url in languages_tools_urls)
 
 github_stats_link = "https://github-readme-stats.vercel.app/api?username=maulayyacyber&show_icons=true&hide_border=true"
 
