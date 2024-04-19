@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fika Ridaul Maulayya</h1>
-<h3 align="center">A Software Engineer 🚀 from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Yudi Billy</h1>
+<h3 align="center">A Software Engineer 🚀 from SURABAY</h3>
 
 <br>
 <br>
