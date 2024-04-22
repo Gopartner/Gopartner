@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm fitur baru</h1>
+<h1 align="center">Hi 👋, I'm nama</h1>
 <h3 align="center">A Software Engineer 🚀 from Unknown City</h3>
                                                       <br>                                                  
 - 🔭 I’m currently working on [Project X](https://santrikoding.com)
-- 👨‍💻 Portfolio at [Here](https://yudibilly.blogspot.com/2024/04/images-of-several-frameworks-and.html)
+- 👨‍💻 Portfolio at [Here](https://example.com/portfolio)
 - 🎥 My Channel [Youtube](https://www.youtube.com/user/example)
-- 📚 My E-book at [Here](https://yudibilly.blogspot.com/2024/04/images-of-several-frameworks-and.html)
+- 📚 My E-book at [Here](https://example.com/ebook)
 - ✉️ How to reach me **example@example.com**
                                                       **Languages & Tools:**                                
 <div style="display: flex; flex-wrap: wrap;">
