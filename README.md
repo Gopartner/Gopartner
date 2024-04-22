@@ -12,6 +12,9 @@
 <img style="margin-right: 10px; margin-bottom: 10px;" height="50" src="https://example.com/image2.jpg">
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gopartner&show_icons=true&hide_border=true)
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maulayyacyber&show_icons=true&hide_border=true)
                                                       ***********************************
 

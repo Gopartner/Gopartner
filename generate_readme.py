@@ -65,5 +65,4 @@ with open('README.md', 'w') as readme_file:
 
 print("README.md telah berhasil dibuat atau diperbarui.")
 
-[![GitHub followers](https://img.shields.io/github/followers/Gopartner?style=for-the-badge&logo=github)](https://github.com/Gopartner)
 
