@@ -6,6 +6,6 @@
     "push": "git add . && git commit -m \"push with package\" && git push"
   },
   "keywords": [],
-  "author": "",
+  "author": "yudibilly",
   "license": "ISC"
 }
