@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm yudibilly</h1>
 <h3 align="center">A Software Engineer 🚀 from SURABAYA</h3>
 
@@ -22,12 +20,6 @@
 <img style="margin-right: 10px; margin-bottom: 10px;" height="50" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-EfFwt1JCFmAoxIQlGFwDrlUgIHA_qVlQf5Bsp5vu3vJUgn91abLn9GthIj4ov7XwODh53jiVDCfGLTHkEv3O0i3z9oIdCUeUR6Ks9JgQett3o_2_gCWLFho2qT-YcogsIHEcgrn2K7wNkqqZmeKaZQLhur8w8qk_xfqrSJ34i9fdtevFgpumKi9W4Lo/s200/tailwindcss.webp">
 <img style="margin-right: 10px; margin-bottom: 10px;" height="50" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcr_g0gMBSsaIGMci1kMjf1shw7U_9YRaGU6vuSBc7mVxsCO-YM1ik9tNhP4zKSlMaCIiZo4_R0Z9dNZLy8sPi7UiHop49xJioc0OvDuJRvE3CA9l7swJSAkLZ7AFcpm9jhHoamKpDphbsRaDTPJ8BZ9k89Hb8KdwLvM2S2-KFBVBIX25qk7XribC1vx4/s200/vue.webp">
 </div>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maulayyacyber&show_icons=true&hide_border=true)
-
-***********************************
-
-#### Thank You-🙏🏼.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gopartner&show_icons=true&hide_border=true)
 
