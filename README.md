@@ -25,8 +25,6 @@
 
                                                       ***********************************
 
-#### Thank You-🙏🏼.
-
 
 <details>
   <summary>Hobbies</summary>
