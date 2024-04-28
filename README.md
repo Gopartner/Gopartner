@@ -2,6 +2,7 @@
 <h3 align="center">A Software Engineer 🚀 from SURABAYA</h3>
 
 <br>
+
 - 🔭 I’m currently working on [data engine](https://santrikoding.com)
 - 👨‍💻 Portfolio at [Here](belum punya)
 - 🎥 My Channel [Youtube](https://youtube.com/@Yudibilly?si=EmlyKoali2VSSCqM)
@@ -21,6 +22,11 @@
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gopartner&show_icons=true&hide_border=true)
+
+                                                      ***********************************
+
+#### Thank You-🙏🏼.
+
 
 <details>
   <summary>Hobbies</summary>
