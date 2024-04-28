@@ -54,7 +54,6 @@ if not languages_tools_urls:
 # Menghasilkan tag <img> untuk setiap URL gambar dalam daftar
 languages_tools = "\n".join(f'<img style="margin-right: 10px; margin-bottom: 10px;" height="50" src="{url}">' for url in languages_tools_urls)
 
-github_stats_link = "https://github-readme-stats.vercel.app/api?username=maulayyacyber&show_icons=true&hide_border=true"
 
 # Memanggil fungsi untuk menghasilkan konten README
 generated_readme = generate_readme(name, city, working_on, portfolio_link, youtube_channel, ebook_link, email, languages_tools, github_stats_link)
