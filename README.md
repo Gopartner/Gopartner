@@ -3,8 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [data engine](https://santrikoding.com)
-- 👨‍💻 Portfolio at [Here](belum punya)
+
 - 🎥 My Channel [Youtube](https://youtube.com/@Yudibilly?si=EmlyKoali2VSSCqM)
 - 📚 My E-book at [Here](beli)
 - ✉️ How to reach me **yudibilly@gmail.com**
