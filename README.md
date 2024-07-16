@@ -22,9 +22,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gopartner&show_icons=true&hide_border=true)
 
-                                                      ***********************************
-
-
 <details>
   <summary>Hobbies</summary>
 🍽️ 🛌 👨🏻‍💻 🔁 
