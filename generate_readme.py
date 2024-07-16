@@ -2,7 +2,7 @@ def generate_readme(name, city, working_on, portfolio_link, youtube_channel, ebo
     readme_content = f"""<h1 align="center">Hi 👋, I'm {name}</h1>
 <h3 align="center">A Software Engineer 🚀 from {city}</h3>
                                                       <br>                                                  
-- 🔭 I’m currently working on [{working_on}](https://santrikoding.com)
+- 🔭 I’m currently working on [{working_on}](https://yudibilly.blogspot.com/)
 - 👨‍💻 Portfolio at [Here]({portfolio_link})
 - 🎥 My Channel [Youtube]({youtube_channel})
 - 📚 My E-book at [Here]({ebook_link})
@@ -33,7 +33,7 @@ city = get_input("Masukkan kota Anda: ", "Unknown City")
 working_on = get_input("Apa yang sedang Anda kerjakan? ", "Project X")
 portfolio_link = get_input("Masukkan link portofolio Anda: ", "https://example.com/portfolio")
 youtube_channel = get_input("Masukkan link channel Youtube Anda: ", "https://www.youtube.com/user/example")
-ebook_link = get_input("Masukkan link e-book Anda: ", "https://example.com/ebook")
+ebook_link = get_input("Masukkan link e-book Anda: ", "https://drive.google.com/file/d/1TaSkTNAzQ0_jNG04kKCSdsfIOjgEe6Vk/view?usp=drivesdk")
 email = get_input("Masukkan alamat email Anda: ", "example@example.com")
 
 # Daftar untuk menyimpan URL gambar
