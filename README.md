@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yudibilly</h1>
-<h3 align="center">A Software Engineer 🚀 from SURABAYA</h3>
+<h3 align="center">Tukang batu dari SURABAYA</h3>
 
 <br>
 
